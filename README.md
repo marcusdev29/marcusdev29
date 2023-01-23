@@ -1,7 +1,7 @@
 ### Olá pessoas sou Marcus Vinicius, seja bem vindo! 🧠🧐
 
 - 🌱 Estudando JAVA
-- 😄 Pronome: ele/dele
+- 😄 Pronome: Ele/Dele
 - ⚡ Fato curioso: Gosto de jogar xadrez ♟
 
 
